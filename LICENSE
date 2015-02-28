@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 GNU LESSER GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
@@ -165,6 +166,8 @@ apply, that proxy's public statement of acceptance of any version is
 permanent authorization for you to choose that version for the
 Library.
 =======
+=======
+>>>>>>> cb32761f82ded79ff5e1bdefccaf9f9e5d0d821a
 The MIT License (MIT)
 
 Copyright (c) 2015 Charles Cai
@@ -186,5 +189,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+<<<<<<< HEAD
 >>>>>>> 56642332cd968cd2cf71c836289ac5513745f094
+=======
+>>>>>>> cb32761f82ded79ff5e1bdefccaf9f9e5d0d821a
 
