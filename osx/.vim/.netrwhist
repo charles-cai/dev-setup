@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/caidong/.vim/ftdetect'
+let g:netrw_dirhist_2='/Users/caidong/.vim/indent'
+let g:netrw_dirhist_3='/Users/caidong/.vim/syntax'
+let g:netrw_dirhist_4='/Users/caidong/.vim/vundle.git'
